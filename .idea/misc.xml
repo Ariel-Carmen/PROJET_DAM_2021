@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ApplicationMobile/app/src/main/res/drawable/border.xml" value="0.10260416666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ApplicationMobile/app/src/main/res/drawable/border_text.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ApplicationMobile/app/src/main/res/drawable/skull_outline.xml" value="0.1787037037037037" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ApplicationMobile/app/src/main/res/layout/activity_main.xml" value="0.20253164556962025" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ApplicationMobile/app/src/main/res/layout/activity_product.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ApplicationMobile/app/src/main/res/layout/activity_product_detail.xml" value="0.22" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ApplicationMobile/app/src/main/res/layout/content_auth.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ApplicationMobile/app/src/main/res/layout/content_product.xml" value="0.2" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ApplicationMobile/app/src/main/res/layout/dialog.xml" value="0.2" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ApplicationMobile/app/src/main/res/layout/edit_product_fragment.xml" value="0.11145833333333334" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ApplicationMobile/app/src/main/res/layout/fragment_first.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ApplicationMobile/app/src/main/res/layout/fragment_first2.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ApplicationMobile/app/src/main/res/layout/fragment_second.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ApplicationMobile/app/src/main/res/layout/fragment_second2.xml" value="0.1609375" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ApplicationMobile/app/src/main/res/layout/navigator_activity.xml" value="0.17083333333333334" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ApplicationMobile/app/src/main/res/layout/navigator_fragment.xml" value="0.13072916666666667" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ApplicationMobile/app/src/main/res/layout/product_simple.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ApplicationMobile/app/src/main/res/layout/regular_product_item.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ApplicationMobile/app/src/main/res/menu/main_menu.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ApplicationMobile/app/src/main/res/menu/product_menu.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_15_PREVIEW" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
