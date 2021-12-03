@@ -21,6 +21,8 @@ public class Product implements Serializable {
     public double quantityInStock;
     @ColumnInfo(name = "alertQuantity")
     public double alertQuantity;
+    @ColumnInfo(name = "idServer")
+    public int idServer;
 
 
     public static final String TABLE_NAME = "products";
@@ -52,7 +54,7 @@ public class Product implements Serializable {
         if (this == o) return true;
         if (o == null || getClass() != o.getClass()) return false;
         Product product = (Product) o;
-        return id == product.id;
+        return idServer == product.idServer;
     }
 
     @Override

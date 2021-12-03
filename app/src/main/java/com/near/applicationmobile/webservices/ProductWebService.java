@@ -44,7 +44,7 @@ public class ProductWebService {
         RequestBody body = RequestBody.create(gson.toJson(product),
                 MediaType.get("application/json; charset=utf-8"));
         Request request = new Request.Builder()
-                .url(baseUrl+"/"+product.id)
+                .url(baseUrl+"/"+product.idServer)
                 .delete(body)
                 .build();
 
@@ -62,7 +62,7 @@ public class ProductWebService {
         RequestBody body = RequestBody.create(gson.toJson(product),
                 MediaType.get("application/json; charset=utf-8"));
         Request request = new Request.Builder()
-                .url(baseUrl+"/"+product.id)
+                .url(baseUrl+"/"+product.idServer)
                 .put(body)
                 .build();
 
